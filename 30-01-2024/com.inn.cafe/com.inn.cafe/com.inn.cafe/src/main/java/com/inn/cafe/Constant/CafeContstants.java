@@ -9,4 +9,6 @@ package com.inn.cafe.Constant;
 
     public static final String UNAUTHORIZED_ACCESS = "Unauthoeized Access";
 
+     public static final String STORE_LOCATION = "D:\\CafeDownlodPdf";
+
 }
